@@ -1,6 +1,6 @@
 ﻿namespace ParserForKursach;
 
-public class Settings
+public class FilePathSettings
 {
     public List<string> FormatsOfFiles { get; set; } = new List<string>
     {
